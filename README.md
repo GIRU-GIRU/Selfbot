@@ -7,5 +7,5 @@ navigate to selfbot folder through cmd line (cd location)
 run npm install --save discord.js within cmd line
 insert token within config file
 
-starting bot;
+the the bot in cmd line with:
 node selfbot.js
